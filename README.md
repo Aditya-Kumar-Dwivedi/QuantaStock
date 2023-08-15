@@ -30,10 +30,20 @@ QuantaStock is designed to help businesses efficiently manage their product inve
 
 ## Technologies Used
 
-- **Front-end**: React
-- **Back-end**: Spring Boot
+- **Front-end**: React (React Hook, React Router 6.0 )
+- **Back-end**: Spring Boot ,Rest Api
 - **Database**: MySQL
+- **Server** : Apache Tomcat Server
+- **Tools** : STS, Vscode
+## Screenshots
 
+_Include screenshots of your website pages here_
+<p float="left">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/Product-Management/src/images/Pic1.png" alt="drawing" width="500" height="500">
+  <img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/Product-Management/src/images/Pic2.png" alt="drawing" width="500" height="500">
+  <img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/Product-Management/src/images/Pic3.png" alt="drawing" width="500" height="500">
+
+</p>
 ## Getting Started
 
 ### Prerequisites
