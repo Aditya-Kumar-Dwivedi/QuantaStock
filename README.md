@@ -39,11 +39,12 @@ QuantaStock is designed to help businesses efficiently manage their product inve
 
 _Include screenshots of your website pages here_
 <p float="left">
-<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/blob/main/Product-Management/src/images/Pic%201.png" alt="drawing" width="500" height="500">
-<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/blob/main/Product-Management/src/images/Pic%202.png" alt="drawing" width="500" height="500">
-<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/blob/main/Product-Management/src/images/Pic%203.png" alt="drawing" width="500" height="500">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/blob/main/Product-Management/src/images/Pic%201.png" alt="drawing" width="300" height="300">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/blob/main/Product-Management/src/images/Pic%202.png" alt="drawing" width="300" height="300">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/QuantaStock/blob/main/Product-Management/src/images/Pic%203.png" alt="drawing" width="300" height="300">
 
 </p>
+
 ## Getting Started
 
 ### Prerequisites
